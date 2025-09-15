@@ -38,3 +38,22 @@ https://annajiju-marketing-intelligence-dashboard-app-odztro.streamlit.app/
   - Business outcomes vs. marketing metrics  
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/marketing-intelligence-dashboard.git
+cd marketing-intelligence-dashboard
+```
+### 2. Create a virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+
+### 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run the app
+streamlit run app.py
+
